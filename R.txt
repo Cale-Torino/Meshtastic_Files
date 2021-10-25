@@ -1,0 +1,9 @@
+
+
+https://meshtastic.org/docs/software
+
+https://github.com/meshtastic/Meshtastic-device
+
+https://github.com/esphome/esphome-flasher/releases/tag/v1.3.0
+
+https://meshtastic.org/docs/getting-started/flashing-esp32
